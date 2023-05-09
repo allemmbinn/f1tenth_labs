@@ -1,0 +1,4 @@
+minimal:
+  ros__parameters:
+    v: 10
+    d: 2
